@@ -8,14 +8,6 @@ import plotly.graph_objects as go
 from PIL import Image
 import time
 
-# Dark Mode Styles
-
-
-# Animation helper
-
-
-
-
 # Constants
 SCREEN_MESH_CAPACITY = {
     "API 100": 250,
