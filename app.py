@@ -1,0 +1,1 @@
+<final canvas content was applied here before>
