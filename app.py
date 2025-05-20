@@ -6,7 +6,6 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from PIL import Image
-import time
 
 # Constants
 SCREEN_MESH_CAPACITY = {
